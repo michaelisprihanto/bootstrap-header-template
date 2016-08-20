@@ -6,21 +6,33 @@ This is a modified header template of Bootstrap.
 
 What's inside:
 
+
 FILE: index.html
 
 FOLDER: /css
+
 bootstrap.css -> standard, unedited bootstrap.css file
+
 style.css -> where all changes need to be done, manually or using LESS or SASS
 
+
 FOLDER: /fonts
+
 glyphicons-halflings-regular.eot
+
 glyphicons-halflings-regular.svg
+
 glyphicons-halflings-regular.ttf
+
 glyphicons-halflings-regular.woff
+
 glyphicons-halflings-regular.woff2
 
+
 FOLDER: /js
+
 bootstrap.js -> standard, unedited bootstrap.js file
+
 
 FOLDER: /img (empty)
 
